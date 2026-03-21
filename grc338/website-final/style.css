@@ -197,7 +197,9 @@ conditions{
 contact{
 	grid-column: 1/2;
 }
-
+nav ul li.selected a { 
+	color: rgb(207,97,53);
+}
 
 
 @media screen and (min-width: 60em) {
