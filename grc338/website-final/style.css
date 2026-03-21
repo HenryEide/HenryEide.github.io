@@ -118,9 +118,7 @@ p.price {
 	text-align: right;
 	margin: 0em 0em;
 }
-p.about{
-	grid-column: 2/4;
-}
+
 article.about{
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -224,7 +222,9 @@ main.menu ul li{
 nav ul{
 	margin: 2em 0em;
 }
-
+p.about{
+	grid-column: 2/4;
+}
 }
 
 
